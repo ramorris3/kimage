@@ -10,8 +10,8 @@ def randomly_orientate(i):
 
 
 class Preprocessor:
-    def __init__(self, preview_dir='data/preview', train_dir='data/train',
-                 test_dir='data/test'):
+    def __init__(self, preview_dir='data/preview/', train_dir='data/train/',
+                 test_dir='data/test/'):
         # init directories
         self.preview_dir = preview_dir
         self.train_dir = train_dir

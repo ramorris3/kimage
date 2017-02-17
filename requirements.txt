@@ -1,0 +1,10 @@
+Keras==1.2.2
+numpy==1.12.0
+olefile==0.44
+Pillow==4.0.0
+protobuf==3.2.0
+PyYAML==3.12
+scipy==0.18.1
+six==1.10.0
+tensorflow==1.0.0
+Theano==0.8.2
